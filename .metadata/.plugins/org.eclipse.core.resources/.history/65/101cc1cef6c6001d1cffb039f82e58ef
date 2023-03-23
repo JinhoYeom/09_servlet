@@ -1,0 +1,7 @@
+package com.greedy.section02.formdata;
+
+import javax.servlet.http.HttpServlet;
+
+public class FormDataTestServlet extends HttpServlet {
+
+}

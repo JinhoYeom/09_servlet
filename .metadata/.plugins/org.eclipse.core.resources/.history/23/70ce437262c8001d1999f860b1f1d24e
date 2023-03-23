@@ -1,0 +1,22 @@
+package com.greedy.menu.controller;
+
+import java.io.IOException;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+@WebServlet("/menu/order")
+public class MenuOrderServlet extends HttpServlet {
+
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		
+		/* 서블릿의 역할
+		 * 1. 요청받은 값 확인 및 검증
+		 * 2. 비지니스 로직 처리
+		 * 3. 응답페이지 생성 후 응답
+		 * */
+		
+	}
+}

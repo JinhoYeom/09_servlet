@@ -1,0 +1,9 @@
+package com.greedy.section01.querystring;
+
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+
+@WebServlet("/querystring")
+public class QueryStringTestServlet extends HttpServlet {
+
+}

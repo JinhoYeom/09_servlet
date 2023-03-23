@@ -1,0 +1,5 @@
+package com.greedy.el.model.dto;
+
+public class MemberDTO {
+
+}

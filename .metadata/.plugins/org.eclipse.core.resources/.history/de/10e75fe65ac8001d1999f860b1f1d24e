@@ -1,0 +1,17 @@
+<!-- 
+	errorPage : 현재 페이지에서 Exception 발생 시 속성값에 설정한 jsp경로로 exception을 포워딩한다.
+	isErrorPage : 현재 페이지를 Exception을 처리할 페이지인 경우 true로 설정. 기본값은 false
+	import
+ -->
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+</body>
+</html>

@@ -1,0 +1,8 @@
+package com.greedy.section01.headers;
+
+import javax.servlet.http.HttpServlet;
+
+public class RequestHeaderPrintServlet extends HttpServlet {
+	
+	
+}
